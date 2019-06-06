@@ -1,0 +1,72 @@
+/** General Styles **/
+/*
+@Autor: JFHR
+@Company: Itera
+@fecha:  2019-05-29
+@update:  2019-05-29
+@Comentario: Versiones del módulo
+* Estilos del módulo, en especial de las viñetas del arbol
+*/
+/* for preguntas frecuentes content */
+.category {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #000000;
+    min-height: 20px;
+    padding: 9px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    color: #333333;
+    font-family: Open Sans, sans-serif !important;
+    font-size: 95%;
+    font-weight: 400 !important;
+    line-height: normal;
+    cursor: pointer;
+}
+.category:hover {
+    background-color:#DDDBDB;
+}
+.selected-category{
+    background-color:#DDDBDB;
+}
+.question{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #000000;
+    border: 1px solid #ddd;
+    padding: 5px;
+    background-color: #fafafa;
+    border-radius: 6px;  
+    font-weight: normal;
+    font-size: 110%;
+    padding-left: 50px;
+    cursor: pointer;
+}
+.question:hover{
+    background-color: #F7F2F2;
+}
+.selected-question{
+    background-color:#F7F2F2;
+}
+.answer {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #000000;
+    margin-bottom: 10px;
+    background-color: #D4C19C;
+    border: 1px solid #ddd;
+    padding: 5px;
+    background-color: #fafafa !important;
+    border-radius: 6px;
+    font-weight: normal;
+    font-size: 105%;
+    margin-left: 50px;
+    padding-left: 50px;
+}
+.creased{
+    display: none;
+}
+/* for preguntas frecuentes content */
