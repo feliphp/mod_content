@@ -1,10 +1,10 @@
 /*
 @Autor: JFHR
-@Company: Itera
+@Company: 
 @fecha:  2019-05-29
 @update:  2019-05-29
 @Comentario: Module Documentation.
-* Important for module install
+* Important for module install- reemplace mod_content from your name component
 */
 The following steps should get you up and running with
 this module template code.
@@ -25,7 +25,7 @@ this module template code.
   $ find . -type f -exec sed -i 's/newmodule/widget/g' {} \;
 
   On a mac, use:
-  $ find . -type f -exec sed -i '' 's/itcontent/widget/g' {} \;
+  $ find . -type f -exec sed -i '' 's/mod_content/widget/g' {} \;
 
 * Rename the file lang/en/newmodule.php to lang/en/widget.php
   where "widget" is the name of your module
