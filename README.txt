@@ -4,7 +4,7 @@
 @fecha:  2019-05-29
 @update:  2019-05-29
 @Comentario: Module Documentation.
-* Important for module install- reemplace mod_content from your name component
+* Important for module install- reemplace mod_content name folder from original name component
 */
 The following steps should get you up and running with
 this module template code.
